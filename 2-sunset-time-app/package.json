@@ -1,0 +1,14 @@
+{
+  "name": "2-sunset-time-app",
+  "version": "1.0.0",
+  "description": "pull sunset info over api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kemal Cholovich",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
